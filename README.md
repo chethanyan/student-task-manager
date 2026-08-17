@@ -75,6 +75,10 @@ API runs on `http://localhost:8080`
 5. Invalid/missing token → `401 Unauthorized`
 
 ---
+🔗 Related Repository
+Frontend → [student-task-manager-backend](https://github.com/chethanyan/student-task-manager-frontend)
+
+---
 
 ## 👨‍💻 Developer
 Built by **Chethanya**
