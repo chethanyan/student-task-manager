@@ -76,7 +76,7 @@ API runs on `http://localhost:8080`
 
 ---
 🔗 Related Repository
-Frontend → [student-task-manager-backend](https://github.com/chethanyan/student-task-manager-frontend)
+Frontend → [student-task-manager-frontend](https://github.com/chethanyan/student-task-manager-frontend)
 
 ---
 
